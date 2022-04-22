@@ -1,0 +1,26 @@
+header {background-color: #cacaaa;
+        text-align: center;}
+
+
+button.btn.btn-success {border-color: #443742;
+color: #f6f5f8;
+background-color: #443742;
+}
+
+button.btn.btn-primary.btn-lg.px-4.me-md-2 {border-color: #443742;
+        color: #f6f5f8;
+        background-color: #443742;
+        }
+
+#hero-section {background-color: #f6f5f8;
+}
+
+button.btn.btn-outline-secondary:hover {background-color: #cacaaa;
+
+}
+
+div.custom-footer {background-color: #cacaaa;
+        text-align: center;}
+
+i {color: #443742;
+}
