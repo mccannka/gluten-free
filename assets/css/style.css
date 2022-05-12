@@ -1,6 +1,17 @@
+/* Common styling for domain use */
+
+@import url();
+
+
+
+/* Site wide navigation */
+
 header {background-color: #cacaaa;
         text-align: center;}
 
+
+
+/* buttons */
 
 button.btn.btn-success {border-color: #443742;
 color: #f6f5f8;
@@ -12,12 +23,17 @@ button.btn.btn-primary.btn-lg.px-4.me-md-2 {border-color: #443742;
         background-color: #443742;
         }
 
-#hero-section {background-color: #f6f5f8;
-}
-
 button.btn.btn-outline-secondary:hover {background-color: #cacaaa;
 
 }
+
+/* hero */
+
+#hero-section {background-color: #f6f5f8;
+}
+
+
+/* footer */
 
 div.custom-footer {background-color: #cacaaa;
         text-align: center;}

@@ -5,7 +5,7 @@ GLUTEN FREE & ME
 
 <img src="assets/images/company-logo.png" alt="Logo" width="15%" height="15%"> 
 
-GLUTEN FREE & ME is a site for those who suffer from Gluten intolerance, to enable recipe sharing so that those with a gluten tolerance still have a varied diet.  The site's primary goal is to enable sharing of recipes and creation of a community.Japanese home cooking recipes and when you are logged in, you can add, edit and delete your own recipes.
+GLUTEN FREE & ME is a site for those who suffer from Gluten intolerance, to enable recipe sharing so that those with a gluten tolerance still have a varied diet.  The site's primary goal is to enable sharing of recipes and creation of a community.  When you are logged in, you can add, edit and delete your own recipes.
 This project will embed learnings around HTML, CSS, JavaScript and Python.
 
 Demo
